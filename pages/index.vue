@@ -12,7 +12,7 @@
   </div>
   </div>
     <div class="col-45" style="display: flex;">
-      <img style="margin-left: auto;" src='~/assets/images/kylehuffling.png'>
+      <img style="margin-left: auto;" src='~/assets/images/KyleHuffling.png'>
     </div>
   </div>
 </div>
