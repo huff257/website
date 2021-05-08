@@ -1,6 +1,9 @@
 <template>
 <div class="page">
 <div class="container">
+<SiteHeader></SiteHeader>
+</div>
+<div class="container">
   <div class="row">
   <div class="col-55">
   <div class="middle-align">
