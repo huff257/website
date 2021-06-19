@@ -15,7 +15,8 @@
   "devDependencies": {
     "fibers": "^5.0.0",
     "push-dir": "^0.4.1",
-    "sass": "^1.32.12",
-    "sass-loader": "^10.1.1"
+    "sass": "^1.35.1",
+    "sass-loader": "^10.2.0",
+    "webpack": "^4.46.0"
   }
 }

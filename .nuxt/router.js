@@ -4,6 +4,7 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+const _08e58a7c = () => interopDefault(import('../pages/typewritereffect.vue' /* webpackChunkName: "pages/typewritereffect" */))
 const _59dd9a84 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -18,6 +19,10 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/typewritereffect",
+    component: _08e58a7c,
+    name: "typewritereffect"
+  }, {
     path: "/",
     component: _59dd9a84,
     name: "index"

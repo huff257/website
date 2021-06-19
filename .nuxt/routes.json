@@ -1,9 +1,14 @@
 [
   {
+    "name": "typewritereffect",
+    "path": "/typewritereffect",
+    "component": "/Users/kyle/Documents/GitHub/website/pages/typewritereffect.vue",
+    "chunkName": "pages/typewritereffect"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/kyle/Documents/GitHub/website/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_59dd9a84"
+    "chunkName": "pages/index"
   }
 ]
