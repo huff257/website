@@ -10,8 +10,8 @@
   <h1 class="primary blue bottom-border-black spc-border-bottom">
     KYLE HUFFLING <br>
     WEB DEVELOPER</h1>
-  <p class="black spc-border-top">Full stack developer with over 5 years of professional experience. 
-    My focus is on building websites that work for people and businesses. </p>
+  <p class="black spc-border-top">I am a full stack developer with over 5 years of professional experience. 
+    I build websites that work for people and businesses. </p>
   </div>
   </div>
     <div class="col-45" style="display: flex;">
