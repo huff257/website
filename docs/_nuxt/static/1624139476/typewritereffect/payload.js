@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/typewritereffect", {data:[{}],fetch:{},mutations:void 0});
